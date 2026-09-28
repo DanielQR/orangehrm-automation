@@ -1,0 +1,18 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="OrangeHRM - Alta de empleado" verbose="1">
+
+    <test name="Chrome">
+        <parameter name="browser" value="chrome"/>
+        <classes>
+            <class name="com.orangehrm.tests.AltaEmpleadoTest"/>
+        </classes>
+    </test>
+
+    <test name="Firefox">
+        <parameter name="browser" value="firefox"/>
+        <classes>
+            <class name="com.orangehrm.tests.AltaEmpleadoTest"/>
+        </classes>
+    </test>
+
+</suite>

@@ -1,0 +1,16 @@
+[
+  {
+    "firstName": "Daniel",
+    "middleName": "Quispe",
+    "lastName": "Ricalde",
+    "password": "Daniel1234!",
+    "status": "Enabled"
+  },
+  {
+    "firstName": "Daniela",
+    "middleName": "Quispe",
+    "lastName": "Aucachi",
+    "password": "Dani5678!",
+    "status": "Disabled"
+  }
+]
